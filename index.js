@@ -1,5 +1,5 @@
 let nome = "Markola Capudo"
-let xp = 2005
+let xp = 10005
 let rank = ""
 
 if(xp<1000) {
